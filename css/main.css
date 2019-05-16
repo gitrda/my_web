@@ -5,6 +5,7 @@ body {
 	padding: 0;
 	margin: 10px 10%;
 	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
 
 }
 
@@ -19,7 +20,7 @@ a {
 
 header {
 	background-color: #fff;
-	background: url(https://img.freepik.com/free-vector/_53876-86373.jpg?size=626&ext=jpg) no-repeat center top / cover;
+	background: url(../img/head_background.jpg) no-repeat center top / cover;
 	margin: 0;
 	display: flex;
 	/*justify-content: space-between;*/
@@ -27,13 +28,13 @@ header {
 	height: 10em;
 	padding: 1em;
 	margin-bottom: 10px;
+	color: white;
+	text-transform: uppercase;
 }
 
 header img {
 	width: 20%;
-	border: 1px solid red;
-	/*display: inline-block;*/
-	margin: 0;
+	margin-right: 70px;
 
 }
 

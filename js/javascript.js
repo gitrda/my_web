@@ -1,0 +1,1 @@
+alert ( ' Hello! This is my first JS-alert. Click "ok" to close this pop-up window :)' );
